@@ -22,7 +22,6 @@ El objetivo de PuntoCultural es centralizar información sobre espacios cultural
 - 📱 Interfaz móvil moderna construida con componentes de React Native  
 - 📡 Comunicación cliente–servidor con servicios en la nube  
 
-> *Nota:* Si en el futuro agregas autenticación, notificaciones por cercanía o filtros, también podrás listarlo aquí.
 
 ---
 
